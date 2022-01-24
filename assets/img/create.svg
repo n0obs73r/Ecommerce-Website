@@ -1,0 +1,337 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="361" height="406.4" viewBox="0 0 361 406.4">
+    <path fill="#FFD7E7" d="M36.5 0h280.9c20.2 0 36.5 16.4 36.5 36.5v333.4c0 20.2-16.4 36.5-36.5 36.5H36.5C16.4 406.4 0 390.1 0 369.9V36.5C0 16.4 16.4 0 36.5 0z"/>
+    <defs>
+        <path id="a" d="M36.5 0h280.9c20.2 0 36.5 16.4 36.5 36.5v333.4c0 20.2-16.4 36.5-36.5 36.5H36.5C16.4 406.4 0 390.1 0 369.9V36.5C0 16.4 16.4 0 36.5 0z"/>
+    </defs>
+    <clipPath id="b">
+        <use xlink:href="#a" overflow="visible"/>
+    </clipPath>
+    <g clip-path="url(#b)">
+        <path fill="none" stroke="#FFF" stroke-width="2" stroke-miterlimit="10" d="M71.4 504.9C37.2 520.9-60.9 441.7-77.2 352-113 155 218.4-97.3 339.8-33c127.3 67.4 72.4 517-46.7 546.3-142 35-455.8-508.4-359.7-610.5 43-45.6 164.1 1.3 228.8 44.9 203.7 137.3 226.5 495.9 75 631-41.1 36.6-89.5 52-128.3 58.8"/>
+    </g>
+    <path d="M78.1 60h205.8c6.7 0 12.2 5.5 12.2 12.2v231.6c0 6.7-5.5 12.2-12.2 12.2H78.1c-6.7 0-12.2-5.5-12.2-12.2V72.2c0-6.7 5.5-12.2 12.2-12.2z"/>
+    <path d="M78.1 60h205.8c6.7 0 12.2 5.5 12.2 12.2v231.6c0 6.7-5.5 12.2-12.2 12.2H78.1c-6.7 0-12.2-5.5-12.2-12.2V72.2c0-6.7 5.5-12.2 12.2-12.2z"/>
+    <path fill="#FFF" stroke="#292538" stroke-miterlimit="10" d="M78.1 52.8h205.8c6.7 0 12.2 5.5 12.2 12.2v231.6c0 6.7-5.5 12.2-12.2 12.2H78.1c-6.7 0-12.2-5.5-12.2-12.2V64.9c0-6.7 5.5-12.1 12.2-12.1z"/>
+    <path fill="#F9F9F9" d="M87.6 61h186.8c6.7 0 12.2 5.5 12.2 12.2v215.2c0 6.7-5.5 12.2-12.2 12.2H87.6c-6.7 0-12.2-5.5-12.2-12.2V73.2c0-6.8 5.4-12.2 12.2-12.2z"/>
+    <circle fill="#DBDBDD" cx="90.2" cy="73.2" r="4"/>
+    <circle fill="#DBDBDD" cx="103.2" cy="73.2" r="4"/>
+    <circle fill="#DBDBDD" cx="116.1" cy="73.2" r="4"/>
+    <circle fill="#DBDBDD" cx="129.1" cy="73.2" r="4"/>
+    <circle fill="#DBDBDD" cx="142.1" cy="73.2" r="4"/>
+    <circle fill="#DBDBDD" cx="155" cy="73.2" r="4"/>
+    <ellipse transform="rotate(-80.781 168.001 73.157)" fill="#DBDBDD" cx="168" cy="73.2" rx="4" ry="4"/>
+    <circle fill="#DBDBDD" cx="181" cy="73.2" r="4"/>
+    <circle fill="#DBDBDD" cx="193.9" cy="73.2" r="4"/>
+    <circle fill="#DBDBDD" cx="206.9" cy="73.2" r="4"/>
+    <circle fill="#DBDBDD" cx="219.9" cy="73.2" r="4"/>
+    <circle fill="#DBDBDD" cx="232.8" cy="73.2" r="4"/>
+    <circle fill="#DBDBDD" cx="245.8" cy="73.2" r="4"/>
+    <circle fill="#DBDBDD" cx="258.8" cy="73.2" r="4"/>
+    <circle fill="#DBDBDD" cx="271.7" cy="73.2" r="4"/>
+    <circle fill="#DBDBDD" cx="90.2" cy="85.9" r="4"/>
+    <circle fill="#DBDBDD" cx="103.2" cy="85.9" r="4"/>
+    <circle fill="#DBDBDD" cx="116.1" cy="85.9" r="4"/>
+    <circle fill="#DBDBDD" cx="129.1" cy="85.9" r="4"/>
+    <circle fill="#DBDBDD" cx="142.1" cy="85.9" r="4"/>
+    <circle fill="#DBDBDD" cx="155" cy="85.9" r="4"/>
+    <ellipse transform="rotate(-80.781 168.002 85.917)" fill="#DBDBDD" cx="168" cy="85.9" rx="4" ry="4"/>
+    <circle fill="#DBDBDD" cx="181" cy="85.9" r="4"/>
+    <circle fill="#DBDBDD" cx="193.9" cy="85.9" r="4"/>
+    <circle fill="#DBDBDD" cx="206.9" cy="85.9" r="4"/>
+    <circle fill="#DBDBDD" cx="219.9" cy="85.9" r="4"/>
+    <circle fill="#DBDBDD" cx="232.8" cy="85.9" r="4"/>
+    <circle fill="#DBDBDD" cx="245.8" cy="85.9" r="4"/>
+    <circle fill="#DBDBDD" cx="258.8" cy="85.9" r="4"/>
+    <circle fill="#DBDBDD" cx="271.7" cy="85.9" r="4"/>
+    <circle fill="#DBDBDD" cx="90.2" cy="98.7" r="4"/>
+    <circle fill="#DBDBDD" cx="103.2" cy="98.7" r="4"/>
+    <circle fill="#DBDBDD" cx="116.1" cy="98.7" r="4"/>
+    <circle fill="#DBDBDD" cx="129.1" cy="98.7" r="4"/>
+    <circle fill="#DBDBDD" cx="142.1" cy="98.7" r="4"/>
+    <circle fill="#DBDBDD" cx="155" cy="98.7" r="4"/>
+    <ellipse transform="rotate(-80.781 168.002 98.667)" fill="#DBDBDD" cx="168" cy="98.7" rx="4" ry="4"/>
+    <circle fill="#DBDBDD" cx="181" cy="98.7" r="4"/>
+    <circle fill="#DBDBDD" cx="193.9" cy="98.7" r="4"/>
+    <circle fill="#DBDBDD" cx="206.9" cy="98.7" r="4"/>
+    <circle fill="#DBDBDD" cx="219.9" cy="98.7" r="4"/>
+    <circle fill="#DBDBDD" cx="232.8" cy="98.7" r="4"/>
+    <circle fill="#DBDBDD" cx="245.8" cy="98.7" r="4"/>
+    <circle fill="#DBDBDD" cx="258.8" cy="98.7" r="4"/>
+    <circle fill="#DBDBDD" cx="271.7" cy="98.7" r="4"/>
+    <circle fill="#DBDBDD" cx="90.2" cy="111.4" r="4"/>
+    <circle fill="#DBDBDD" cx="103.2" cy="111.4" r="4"/>
+    <circle fill="#DBDBDD" cx="116.1" cy="111.4" r="4"/>
+    <circle fill="#DBDBDD" cx="129.1" cy="111.4" r="4"/>
+    <circle fill="#DBDBDD" cx="142.1" cy="111.4" r="4"/>
+    <circle fill="#DBDBDD" cx="155" cy="111.4" r="4"/>
+    <ellipse transform="rotate(-80.781 168.002 111.427)" fill="#DBDBDD" cx="168" cy="111.4" rx="4" ry="4"/>
+    <circle fill="#DBDBDD" cx="181" cy="111.4" r="4"/>
+    <circle fill="#DBDBDD" cx="193.9" cy="111.4" r="4"/>
+    <circle fill="#DBDBDD" cx="206.9" cy="111.4" r="4"/>
+    <circle fill="#DBDBDD" cx="219.9" cy="111.4" r="4"/>
+    <circle fill="#DBDBDD" cx="232.8" cy="111.4" r="4"/>
+    <circle fill="#DBDBDD" cx="245.8" cy="111.4" r="4"/>
+    <circle fill="#DBDBDD" cx="258.8" cy="111.4" r="4"/>
+    <circle fill="#DBDBDD" cx="271.7" cy="111.4" r="4"/>
+    <circle fill="#DBDBDD" cx="90.2" cy="124.2" r="4"/>
+    <circle fill="#DBDBDD" cx="103.2" cy="124.2" r="4"/>
+    <circle fill="#DBDBDD" cx="116.1" cy="124.2" r="4"/>
+    <circle fill="#DBDBDD" cx="129.1" cy="124.2" r="4"/>
+    <circle fill="#DBDBDD" cx="142.1" cy="124.2" r="4"/>
+    <circle fill="#DBDBDD" cx="155" cy="124.2" r="4"/>
+    <ellipse transform="rotate(-80.781 168.002 124.187)" fill="#DBDBDD" cx="168" cy="124.2" rx="4" ry="4"/>
+    <circle fill="#DBDBDD" cx="181" cy="124.2" r="4"/>
+    <circle fill="#DBDBDD" cx="193.9" cy="124.2" r="4"/>
+    <circle fill="#DBDBDD" cx="206.9" cy="124.2" r="4"/>
+    <circle fill="#DBDBDD" cx="219.9" cy="124.2" r="4"/>
+    <circle fill="#DBDBDD" cx="232.8" cy="124.2" r="4"/>
+    <circle fill="#DBDBDD" cx="245.8" cy="124.2" r="4"/>
+    <circle fill="#DBDBDD" cx="258.8" cy="124.2" r="4"/>
+    <circle fill="#DBDBDD" cx="271.7" cy="124.2" r="4"/>
+    <circle fill="#DBDBDD" cx="90.2" cy="136.9" r="4"/>
+    <circle fill="#DBDBDD" cx="103.2" cy="136.9" r="4"/>
+    <circle fill="#DBDBDD" cx="116.1" cy="136.9" r="4"/>
+    <circle fill="#DBDBDD" cx="129.1" cy="136.9" r="4"/>
+    <circle fill="#DBDBDD" cx="142.1" cy="136.9" r="4"/>
+    <circle fill="#DBDBDD" cx="155" cy="136.9" r="4"/>
+    <ellipse transform="rotate(-80.781 168.002 136.947)" fill="#DBDBDD" cx="168" cy="136.9" rx="4" ry="4"/>
+    <circle fill="#DBDBDD" cx="181" cy="136.9" r="4"/>
+    <circle fill="#DBDBDD" cx="193.9" cy="136.9" r="4"/>
+    <circle fill="#DBDBDD" cx="206.9" cy="136.9" r="4"/>
+    <circle fill="#DBDBDD" cx="219.9" cy="136.9" r="4"/>
+    <circle fill="#DBDBDD" cx="232.8" cy="136.9" r="4"/>
+    <circle fill="#DBDBDD" cx="245.8" cy="136.9" r="4"/>
+    <circle fill="#DBDBDD" cx="258.8" cy="136.9" r="4"/>
+    <circle fill="#DBDBDD" cx="271.7" cy="136.9" r="4"/>
+    <circle fill="#DBDBDD" cx="90.2" cy="149.7" r="4"/>
+    <circle fill="#DBDBDD" cx="103.2" cy="149.7" r="4"/>
+    <circle fill="#DBDBDD" cx="116.1" cy="149.7" r="4"/>
+    <circle fill="#DBDBDD" cx="129.1" cy="149.7" r="4"/>
+    <circle fill="#DBDBDD" cx="142.1" cy="149.7" r="4"/>
+    <circle fill="#DBDBDD" cx="155" cy="149.7" r="4"/>
+    <ellipse transform="rotate(-80.781 168.003 149.707)" fill="#DBDBDD" cx="168" cy="149.7" rx="4" ry="4"/>
+    <circle fill="#DBDBDD" cx="181" cy="149.7" r="4"/>
+    <circle fill="#DBDBDD" cx="193.9" cy="149.7" r="4"/>
+    <circle fill="#DBDBDD" cx="206.9" cy="149.7" r="4"/>
+    <circle fill="#DBDBDD" cx="219.9" cy="149.7" r="4"/>
+    <circle fill="#DBDBDD" cx="232.8" cy="149.7" r="4"/>
+    <circle fill="#DBDBDD" cx="245.8" cy="149.7" r="4"/>
+    <circle fill="#DBDBDD" cx="258.8" cy="149.7" r="4"/>
+    <circle fill="#DBDBDD" cx="271.7" cy="149.7" r="4"/>
+    <circle fill="#DBDBDD" cx="90.2" cy="162.5" r="4"/>
+    <circle fill="#DBDBDD" cx="103.2" cy="162.5" r="4"/>
+    <circle fill="#DBDBDD" cx="116.1" cy="162.5" r="4"/>
+    <circle fill="#DBDBDD" cx="129.1" cy="162.5" r="4"/>
+    <circle fill="#DBDBDD" cx="142.1" cy="162.5" r="4"/>
+    <circle fill="#DBDBDD" cx="155" cy="162.5" r="4"/>
+    <ellipse transform="rotate(-80.781 168.003 162.467)" fill="#DBDBDD" cx="168" cy="162.5" rx="4" ry="4"/>
+    <circle fill="#DBDBDD" cx="181" cy="162.5" r="4"/>
+    <circle fill="#DBDBDD" cx="193.9" cy="162.5" r="4"/>
+    <circle fill="#DBDBDD" cx="206.9" cy="162.5" r="4"/>
+    <circle fill="#DBDBDD" cx="219.9" cy="162.5" r="4"/>
+    <circle fill="#DBDBDD" cx="232.8" cy="162.5" r="4"/>
+    <circle fill="#DBDBDD" cx="245.8" cy="162.5" r="4"/>
+    <circle fill="#DBDBDD" cx="258.8" cy="162.5" r="4"/>
+    <circle fill="#DBDBDD" cx="271.7" cy="162.5" r="4"/>
+    <circle fill="#DBDBDD" cx="90.2" cy="175.2" r="4"/>
+    <circle fill="#DBDBDD" cx="103.2" cy="175.2" r="4"/>
+    <circle fill="#DBDBDD" cx="116.1" cy="175.2" r="4"/>
+    <circle fill="#DBDBDD" cx="129.1" cy="175.2" r="4"/>
+    <circle fill="#DBDBDD" cx="142.1" cy="175.2" r="4"/>
+    <circle fill="#DBDBDD" cx="155" cy="175.2" r="4"/>
+    <ellipse transform="rotate(-80.781 168.003 175.227)" fill="#DBDBDD" cx="168" cy="175.2" rx="4" ry="4"/>
+    <circle fill="#DBDBDD" cx="181" cy="175.2" r="4"/>
+    <circle fill="#DBDBDD" cx="193.9" cy="175.2" r="4"/>
+    <circle fill="#DBDBDD" cx="206.9" cy="175.2" r="4"/>
+    <circle fill="#DBDBDD" cx="219.9" cy="175.2" r="4"/>
+    <circle fill="#DBDBDD" cx="232.8" cy="175.2" r="4"/>
+    <circle fill="#DBDBDD" cx="245.8" cy="175.2" r="4"/>
+    <circle fill="#DBDBDD" cx="258.8" cy="175.2" r="4"/>
+    <circle fill="#DBDBDD" cx="271.7" cy="175.2" r="4"/>
+    <circle fill="#DBDBDD" cx="90.2" cy="188" r="4"/>
+    <circle fill="#DBDBDD" cx="103.2" cy="188" r="4"/>
+    <circle fill="#DBDBDD" cx="116.1" cy="188" r="4"/>
+    <circle fill="#DBDBDD" cx="129.1" cy="188" r="4"/>
+    <circle fill="#DBDBDD" cx="142.1" cy="188" r="4"/>
+    <circle fill="#DBDBDD" cx="155" cy="188" r="4"/>
+    <ellipse transform="rotate(-80.781 168.003 187.977)" fill="#DBDBDD" cx="168" cy="188" rx="4" ry="4"/>
+    <circle fill="#DBDBDD" cx="181" cy="188" r="4"/>
+    <circle fill="#DBDBDD" cx="193.9" cy="188" r="4"/>
+    <circle fill="#DBDBDD" cx="206.9" cy="188" r="4"/>
+    <circle fill="#DBDBDD" cx="219.9" cy="188" r="4"/>
+    <circle fill="#DBDBDD" cx="232.8" cy="188" r="4"/>
+    <circle fill="#DBDBDD" cx="245.8" cy="188" r="4"/>
+    <circle fill="#DBDBDD" cx="258.8" cy="188" r="4"/>
+    <circle fill="#DBDBDD" cx="271.7" cy="188" r="4"/>
+    <circle fill="#DBDBDD" cx="90.2" cy="200.7" r="4"/>
+    <circle fill="#DBDBDD" cx="103.2" cy="200.7" r="4"/>
+    <circle fill="#DBDBDD" cx="116.1" cy="200.7" r="4"/>
+    <circle fill="#DBDBDD" cx="129.1" cy="200.7" r="4"/>
+    <circle fill="#DBDBDD" cx="142.1" cy="200.7" r="4"/>
+    <circle fill="#DBDBDD" cx="155" cy="200.7" r="4"/>
+    <ellipse transform="rotate(-80.781 168.004 200.738)" fill="#DBDBDD" cx="168" cy="200.7" rx="4" ry="4"/>
+    <circle fill="#DBDBDD" cx="181" cy="200.7" r="4"/>
+    <circle fill="#DBDBDD" cx="193.9" cy="200.7" r="4"/>
+    <circle fill="#DBDBDD" cx="206.9" cy="200.7" r="4"/>
+    <circle fill="#DBDBDD" cx="219.9" cy="200.7" r="4"/>
+    <circle fill="#DBDBDD" cx="232.8" cy="200.7" r="4"/>
+    <circle fill="#DBDBDD" cx="245.8" cy="200.7" r="4"/>
+    <circle fill="#DBDBDD" cx="258.8" cy="200.7" r="4"/>
+    <circle fill="#DBDBDD" cx="271.7" cy="200.7" r="4"/>
+    <circle fill="#DBDBDD" cx="90.2" cy="213.5" r="4"/>
+    <circle fill="#DBDBDD" cx="103.2" cy="213.5" r="4"/>
+    <circle fill="#DBDBDD" cx="116.1" cy="213.5" r="4"/>
+    <circle fill="#DBDBDD" cx="129.1" cy="213.5" r="4"/>
+    <circle fill="#DBDBDD" cx="142.1" cy="213.5" r="4"/>
+    <circle fill="#DBDBDD" cx="155" cy="213.5" r="4"/>
+    <ellipse transform="rotate(-80.781 168.004 213.497)" fill="#DBDBDD" cx="168" cy="213.5" rx="4" ry="4"/>
+    <circle fill="#DBDBDD" cx="181" cy="213.5" r="4"/>
+    <circle fill="#DBDBDD" cx="193.9" cy="213.5" r="4"/>
+    <circle fill="#DBDBDD" cx="206.9" cy="213.5" r="4"/>
+    <circle fill="#DBDBDD" cx="219.9" cy="213.5" r="4"/>
+    <circle fill="#DBDBDD" cx="232.8" cy="213.5" r="4"/>
+    <circle fill="#DBDBDD" cx="245.8" cy="213.5" r="4"/>
+    <circle fill="#DBDBDD" cx="258.8" cy="213.5" r="4"/>
+    <circle fill="#DBDBDD" cx="271.7" cy="213.5" r="4"/>
+    <circle fill="#DBDBDD" cx="90.2" cy="226.3" r="4"/>
+    <circle fill="#DBDBDD" cx="103.2" cy="226.3" r="4"/>
+    <circle fill="#DBDBDD" cx="116.1" cy="226.3" r="4"/>
+    <circle fill="#DBDBDD" cx="129.1" cy="226.3" r="4"/>
+    <circle fill="#DBDBDD" cx="142.1" cy="226.3" r="4"/>
+    <circle fill="#DBDBDD" cx="155" cy="226.3" r="4"/>
+    <ellipse transform="rotate(-80.781 168.004 226.257)" fill="#DBDBDD" cx="168" cy="226.3" rx="4" ry="4"/>
+    <circle fill="#DBDBDD" cx="181" cy="226.3" r="4"/>
+    <circle fill="#DBDBDD" cx="193.9" cy="226.3" r="4"/>
+    <circle fill="#DBDBDD" cx="206.9" cy="226.3" r="4"/>
+    <circle fill="#DBDBDD" cx="219.9" cy="226.3" r="4"/>
+    <circle fill="#DBDBDD" cx="232.8" cy="226.3" r="4"/>
+    <circle fill="#DBDBDD" cx="245.8" cy="226.3" r="4"/>
+    <circle fill="#DBDBDD" cx="258.8" cy="226.3" r="4"/>
+    <circle fill="#DBDBDD" cx="271.7" cy="226.3" r="4"/>
+    <circle fill="#DBDBDD" cx="90.2" cy="239" r="4"/>
+    <circle fill="#DBDBDD" cx="103.2" cy="239" r="4"/>
+    <circle fill="#DBDBDD" cx="116.1" cy="239" r="4"/>
+    <circle fill="#DBDBDD" cx="129.1" cy="239" r="4"/>
+    <circle fill="#DBDBDD" cx="142.1" cy="239" r="4"/>
+    <circle fill="#DBDBDD" cx="155" cy="239" r="4"/>
+    <ellipse transform="rotate(-80.781 168.004 239.018)" fill="#DBDBDD" cx="168" cy="239" rx="4" ry="4"/>
+    <circle fill="#DBDBDD" cx="181" cy="239" r="4"/>
+    <circle fill="#DBDBDD" cx="193.9" cy="239" r="4"/>
+    <circle fill="#DBDBDD" cx="206.9" cy="239" r="4"/>
+    <circle fill="#DBDBDD" cx="219.9" cy="239" r="4"/>
+    <circle fill="#DBDBDD" cx="232.8" cy="239" r="4"/>
+    <circle fill="#DBDBDD" cx="245.8" cy="239" r="4"/>
+    <circle fill="#DBDBDD" cx="258.8" cy="239" r="4"/>
+    <circle fill="#DBDBDD" cx="271.7" cy="239" r="4"/>
+    <circle fill="#DBDBDD" cx="90.2" cy="251.8" r="4"/>
+    <circle fill="#DBDBDD" cx="103.2" cy="251.8" r="4"/>
+    <circle fill="#DBDBDD" cx="116.1" cy="251.8" r="4"/>
+    <circle fill="#DBDBDD" cx="129.1" cy="251.8" r="4"/>
+    <circle fill="#DBDBDD" cx="142.1" cy="251.8" r="4"/>
+    <circle fill="#DBDBDD" cx="155" cy="251.8" r="4"/>
+    <ellipse transform="rotate(-80.781 168.004 251.778)" fill="#DBDBDD" cx="168" cy="251.8" rx="4" ry="4"/>
+    <circle fill="#DBDBDD" cx="181" cy="251.8" r="4"/>
+    <circle fill="#DBDBDD" cx="193.9" cy="251.8" r="4"/>
+    <circle fill="#DBDBDD" cx="206.9" cy="251.8" r="4"/>
+    <circle fill="#DBDBDD" cx="219.9" cy="251.8" r="4"/>
+    <circle fill="#DBDBDD" cx="232.8" cy="251.8" r="4"/>
+    <circle fill="#DBDBDD" cx="245.8" cy="251.8" r="4"/>
+    <circle fill="#DBDBDD" cx="258.8" cy="251.8" r="4"/>
+    <circle fill="#DBDBDD" cx="271.7" cy="251.8" r="4"/>
+    <circle fill="#DBDBDD" cx="90.2" cy="264.5" r="4"/>
+    <circle fill="#DBDBDD" cx="103.2" cy="264.5" r="4"/>
+    <circle fill="#DBDBDD" cx="116.1" cy="264.5" r="4"/>
+    <circle fill="#DBDBDD" cx="129.1" cy="264.5" r="4"/>
+    <circle fill="#DBDBDD" cx="142.1" cy="264.5" r="4"/>
+    <circle fill="#DBDBDD" cx="155" cy="264.5" r="4"/>
+    <ellipse transform="rotate(-80.781 168.005 264.538)" fill="#DBDBDD" cx="168" cy="264.5" rx="4" ry="4"/>
+    <circle fill="#DBDBDD" cx="181" cy="264.5" r="4"/>
+    <circle fill="#DBDBDD" cx="193.9" cy="264.5" r="4"/>
+    <circle fill="#DBDBDD" cx="206.9" cy="264.5" r="4"/>
+    <circle fill="#DBDBDD" cx="219.9" cy="264.5" r="4"/>
+    <circle fill="#DBDBDD" cx="232.8" cy="264.5" r="4"/>
+    <circle fill="#DBDBDD" cx="245.8" cy="264.5" r="4"/>
+    <circle fill="#DBDBDD" cx="258.8" cy="264.5" r="4"/>
+    <circle fill="#DBDBDD" cx="271.7" cy="264.5" r="4"/>
+    <circle fill="#DBDBDD" cx="90.2" cy="277.3" r="4"/>
+    <circle fill="#DBDBDD" cx="103.2" cy="277.3" r="4"/>
+    <circle fill="#DBDBDD" cx="116.1" cy="277.3" r="4"/>
+    <circle fill="#DBDBDD" cx="129.1" cy="277.3" r="4"/>
+    <circle fill="#DBDBDD" cx="142.1" cy="277.3" r="4"/>
+    <circle fill="#DBDBDD" cx="155" cy="277.3" r="4"/>
+    <ellipse transform="rotate(-80.781 168.005 277.288)" fill="#DBDBDD" cx="168" cy="277.3" rx="4" ry="4"/>
+    <circle fill="#DBDBDD" cx="181" cy="277.3" r="4"/>
+    <circle fill="#DBDBDD" cx="193.9" cy="277.3" r="4"/>
+    <circle fill="#DBDBDD" cx="206.9" cy="277.3" r="4"/>
+    <circle fill="#DBDBDD" cx="219.9" cy="277.3" r="4"/>
+    <circle fill="#DBDBDD" cx="232.8" cy="277.3" r="4"/>
+    <circle fill="#DBDBDD" cx="245.8" cy="277.3" r="4"/>
+    <circle fill="#DBDBDD" cx="258.8" cy="277.3" r="4"/>
+    <circle fill="#DBDBDD" cx="271.7" cy="277.3" r="4"/>
+    <circle fill="#DBDBDD" cx="90.2" cy="290" r="4"/>
+    <circle fill="#DBDBDD" cx="103.2" cy="290" r="4"/>
+    <circle fill="#DBDBDD" cx="116.1" cy="290" r="4"/>
+    <circle fill="#DBDBDD" cx="129.1" cy="290" r="4"/>
+    <circle fill="#DBDBDD" cx="142.1" cy="290" r="4"/>
+    <circle fill="#DBDBDD" cx="155" cy="290" r="4"/>
+    <ellipse transform="rotate(-80.781 168.005 290.048)" fill="#DBDBDD" cx="168" cy="290" rx="4" ry="4"/>
+    <circle fill="#DBDBDD" cx="181" cy="290" r="4"/>
+    <circle fill="#DBDBDD" cx="193.9" cy="290" r="4"/>
+    <circle fill="#DBDBDD" cx="206.9" cy="290" r="4"/>
+    <circle fill="#DBDBDD" cx="219.9" cy="290" r="4"/>
+    <circle fill="#DBDBDD" cx="232.8" cy="290" r="4"/>
+    <circle fill="#DBDBDD" cx="245.8" cy="290" r="4"/>
+    <circle fill="#DBDBDD" cx="258.8" cy="290" r="4"/>
+    <circle fill="#DBDBDD" cx="271.7" cy="290" r="4"/>
+    <g opacity=".67">
+        <path opacity=".75" fill="#161333" d="M135.7 216.2l45.2-26.3 45.5 26.3-45.2 26.3-45.5-26.3z"/>
+        <defs>
+            <path id="c" d="M135.7 216.3l45.1-26.3 45.5 26.3-45.2 26.2z"/>
+        </defs>
+        <clipPath id="d">
+            <use xlink:href="#c" overflow="visible"/>
+        </clipPath>
+        <g clip-path="url(#d)">
+            <path opacity=".75" fill="#161333" d="M226.3 216.2L180.8 190l-44.3 25.8c-.3.2-.4.5-.2.8.1.1.1.2.2.2l44.6 25.8 45.2-26.4"/>
+        </g>
+    </g>
+    <path fill="#E83041" d="M135.7 177.2l45.2-26.3 45.5 26.3-45.2 26.3-45.5-26.3z"/>
+    <path fill="none" stroke="#292538" stroke-linejoin="round" d="M135.7 177.2l45.2-26.3 45.5 26.3-45.2 26.3-45.5-26.3z"/>
+    <path fill="#292538" stroke="#292538" stroke-width="2" stroke-miterlimit="10" d="M135.7 177.7v18.7l45.5 26.2v-19.2l-45-26c-.1-.1-.3 0-.4.1-.1.1-.1.1-.1.2z"/>
+    <path fill="#E9F2FF" stroke="#292538" stroke-miterlimit="10" d="M181.1 203.4v19.2l45.2-26.3v-19.2l-45.2 26.3h0z"/>
+    <path fill="#292538" d="M197.7 166.5c-9.3-5.4-24.4-5.4-33.6 0-9.3 5.4-9.2 14.1.1 19.5s24.4 5.4 33.6 0 9.2-14.1-.1-19.5"/>
+    <path fill="#292538" d="M157.3 167.5h47.4v8.3h-47.4v-8.3z"/>
+    <path fill="#FFF" stroke="#292538" stroke-miterlimit="10" d="M197.7 156.5c-9.3-5.4-24.4-5.4-33.6 0-9.3 5.4-9.2 14.1.1 19.5s24.4 5.4 33.6 0 9.2-14.1-.1-19.5"/>
+    <g opacity=".75">
+        <path opacity=".67" fill="#161333" d="M269.7 284.8l26.7-23.8v-29.6l-41.7 36.4 15 17z"/>
+    </g>
+    <path opacity=".37" d="M92.7 53H65.4v37.5h27.3c3.3 0 6-2.7 6-6V59c0-3.3-2.7-6-6-6z"/>
+    <path fill="#FFF" stroke="#292538" stroke-miterlimit="10" d="M58.7 44.4h25.5c3.3 0 6 2.7 6 6v25.5c0 3.3-2.7 6-6 6H58.7c-3.3 0-6-2.7-6-6V50.4c0-3.3 2.7-6 6-6z"/>
+    <path opacity=".37" d="M92.7 109H65.4v37.5h27.3c3.3 0 6-2.7 6-6V115c0-3.3-2.7-6-6-6z"/>
+    <path fill="#9CC153" stroke="#292538" stroke-miterlimit="10" d="M58.7 100.4h25.5c3.3 0 6 2.7 6 6v25.5c0 3.3-2.7 6-6 6H58.7c-3.3 0-6-2.7-6-6v-25.5c0-3.3 2.7-6 6-6z"/>
+    <path opacity=".37" d="M92.7 163.2H65.4v37.5h27.3c3.3 0 6-2.7 6-6v-25.5c0-3.4-2.7-6-6-6z"/>
+    <path fill="#3987E0" stroke="#292538" stroke-miterlimit="10" d="M58.7 154.6h25.5c3.3 0 6 2.7 6 6v25.5c0 3.3-2.7 6-6 6H58.7c-3.3 0-6-2.7-6-6v-25.5c0-3.4 2.7-6 6-6z"/>
+    <path fill="#FFF" stroke="#292538" stroke-miterlimit="10" d="M69.8 338.3h221.7c2.1 0 3.9 1.7 3.9 3.9v0c0 2.1-1.7 3.9-3.9 3.9H69.8c-2.1 0-3.9-1.7-3.9-3.9v0c0-2.2 1.8-3.9 3.9-3.9z"/>
+    <path fill="#292538" d="M69.8 338.3h137.1v7.8H69.8c-2.1 0-3.9-1.7-3.9-3.9s1.8-4 3.9-3.9z"/>
+    <path fill="none" stroke="#292538" stroke-width="2" stroke-miterlimit="10" d="M28.7 183.4v183.1c0 2.8 2.2 5 5 5H172"/>
+    <path fill="#292538" stroke="#292538" stroke-width="2" stroke-miterlimit="10" d="M24.3 186.1l4.5-.9 4.3.9-4.3-8.6-4.5 8.6zm146.2 181l.9 4.5-.9 4.3 8.6-4.3-8.6-4.5z"/>
+    <circle opacity=".7" cx="212.6" cy="346" r="11.3"/>
+    <circle fill="#FFF" stroke="#292538" stroke-linejoin="round" cx="209.2" cy="342.1" r="11.3"/>
+    <path fill="#F7B907" stroke="#292538" stroke-miterlimit="10" d="M346 167.1l15 17-91.4 80.5-15-17 91.4-80.5z"/>
+    <path fill="#FFF" stroke="#292538" stroke-linejoin="round" d="M259.4 243.4l3.8 4.3m-.2-7.5l3.8 4.3m-.3-7.4l3.8 4.3m-.2-7.5l3.8 4.3m-.2-7.4l6.4 7.3m-2.9-10.4l3.8 4.3m-.2-7.4l3.8 4.3m-.3-7.5l3.8 4.3m-.2-7.4l3.8 4.3m-.2-7.5l6.4 7.2m-3-10.2l3.8 4.3m-.2-7.5l3.8 4.3m-.2-7.4l3.8 4.3m-.2-7.5l3.8 4.3m-.2-7.4l6.4 7.2m-3-10.3l3.8 4.3m-.2-7.4l3.8 4.3m-.2-7.5l3.8 4.3m-.2-7.5l3.8 4.3m-.2-7.4l6.4 7.3m-3-10.3l3.8 4.3m-.2-7.5l3.8 4.3m-.2-7.5l3.8 4.3m-.2-7.4l3.8 4.3"/>
+    <path fill="#FFF" stroke="#292538" stroke-linecap="round" stroke-linejoin="round" d="M219.1 122.5l-4.7 18.4 18.4-4.7"/>
+    <path fill="#E83041" d="M216 134.7l-1.6 6.3 6.2-1.6c-2.1-.9-3.7-2.6-4.6-4.7z"/>
+    <ellipse transform="rotate(-45.001 226.352 128.958)" fill="#292538" stroke="#292538" stroke-width="2" stroke-miterlimit="10" cx="226.4" cy="129" rx="4.4" ry="9.7"/>
+    <path fill="#292538" stroke="#292538" stroke-width="2" stroke-miterlimit="10" d="M299 45.1l11.1 11.1c.7.7.7 1.9 0 2.6l-77 77h0l-13.7-13.7h0l77-77c.8-.7 1.9-.7 2.6 0z"/>
+    <ellipse transform="rotate(-45.001 304.613 50.703)" fill="#FFF" stroke="#292538" stroke-linejoin="round" cx="304.6" cy="50.7" rx="4.4" ry="9.7"/>
+    <ellipse transform="rotate(-45.001 305.003 50.31)" fill="#E83041" cx="305" cy="50.3" rx="1.8" ry="4.4"/>
+    <path opacity=".75" fill="#161333" d="M296.8 87.9l-48.9 48.9c-.1.1-.3.3-.4.5l-.1-.1-4.7 18.4 18.4-4.7-.1-.1c.2-.1.4-.2.5-.4l35.2-35.2"/>
+    <path fill="none" stroke="#FFF" stroke-linejoin="round" d="M80.7 110.1l-18.1 18.2"/>
+    <path fill="#FFF" d="M77.7 108l5.1 5.1.5-5.7-5.6.6zm-12.2 22.4l-5.1-5.1-.5 5.7 5.6-.6z"/>
+    <path fill="#292538" d="M65 73.7l-4.3.6.6-4.3 15.5-15.5 3.6 3.6L65 73.7z"/>
+    <path fill="#E83041" d="M80.9 52.4l1.8 1.8c.5.5.5 1.3 0 1.8l-1.3 1.3-3.7-3.7 1.3-1.3c.6-.5 1.4-.5 1.9.1 0-.1 0-.1 0 0z"/>
+    <path fill="#3987E0" stroke="#FFF" stroke-miterlimit="10" d="M60.8 173.1h10.9V184H60.8v-10.9z"/>
+    <circle fill="#3987E0" stroke="#FFF" stroke-miterlimit="10" cx="66.3" cy="178.6" r="2.7"/>
+    <path fill="#3987E0" stroke="#FFF" stroke-miterlimit="10" d="M71.7 162.5h10.9v10.9H71.7v-10.9z"/>
+    <circle fill="#FFF" cx="77.2" cy="167.9" r="2.7"/>
+</svg>

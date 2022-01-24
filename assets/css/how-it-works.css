@@ -1,0 +1,79 @@
+/* BANNER */
+.how-it-works-banner-sec h1 {
+    color: black;
+    margin-top: 100px;
+    font-size: 55px;
+    font-weight: 900;
+}
+.how-it-works-banner-sec i {
+    margin: 0px 8px;
+    font-size: 36px;
+    color: #ddb253;
+}
+.how-it-works-banner-sec h3 {
+    font-size: 28px;
+    margin: 18px 0px;
+    font-weight: 500;
+    color: black;
+    padding-bottom: 38px;
+}
+.how-it-works-banner-sec a i {
+    color: #ddb253;
+}
+.how-it-works-banner-sec a:hover, .how-it-works-banner-sec a:hover i{
+    color: #f9d77e;
+}
+.how-it-steps {
+    /* border: 3px solid rebeccapurple; */
+    margin: 0px 12px;
+    padding: 0px 12px;
+}
+.how-it-works-banner-sec .steps-div {
+    margin: 30px auto;
+    padding: 0px 20px;
+}
+.how-it-steps h4 {
+    margin: 40px 0px;
+    font-size: 30px;
+    font-weight: 700;
+    padding: 0px;
+}
+.how-it-steps p {
+    font-size: 15px;
+    font-weight: 400;
+}
+/* END OF BANNER */
+
+/* BANNER VIDEO */
+.banner-div-sec {
+    background-color: #ddb253;
+}
+.banner-div-sec h1 {
+    font-size: 42px;
+    font-weight: 900;
+}
+.banner-div-sec iframe {
+    margin-bottom: 50px;
+}
+.banner-div-sec h4 {
+    margin-bottom: 30px;
+}
+.banner-div-sec .see-more-btn:hover {
+    border: 3px solid black;
+}
+/* END OF BANNER VIDEO */
+
+/* VIDEO GALLERY */
+.video-gallery-sec h1 {
+    font-size: 42px;
+    font-weight: 900;
+    margin-bottom: 30px;
+    margin-top: 40px;
+}
+.video-gallery-sec h4 {
+    margin-bottom: 55px;
+}
+.video-gallery-sec .video-gallery {
+    margin: 0px 10px;
+}
+/* END VIDEO GALLERY */

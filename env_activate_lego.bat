@@ -1,0 +1,1 @@
+start .\lego\Scripts\activate

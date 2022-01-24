@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+    <head>
+        <title>IMAGE TO LEGO</title>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+        <style>
+            .container-kc {
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                -moz-transform: translateX(-50%) translateY(-50%);
+                -webkit-transform: translateX(-50%) translateY(-50%);
+                transform: translateX(-50%) translateY(-50%);
+            }
+            .center {
+              display: block;
+              margin-left: auto;
+              margin-right: auto;
+              width: 60%;
+            }
+        </style>
+    </head>
+    
+    <body>
+        <nav class="navbar navbar-dark bg-primary mb-5">
+            <div class="container-fluid">
+                <span class="navbar-brand mb-0 h1">IMAGE LEGO-BRICKS</span>
+            </div>
+        </nav>
+
+        <form class="center" action="/legonizer" method="post" enctype="multipart/form-data">
+            <div>
+                <img class="center" id="myimage" src="static/assets/no_image.jpg">
+            </div>
+            <div class="center">
+                <div>
+                    <input class="center" type="file" onchange="onFileSelected(event)" name="imagefile" id="imagefile">
+                </div>
+                <div>
+                    <button class="btn-success mt-3 center" type="submit"> NEXT </button>
+                </div>
+            </div>
+        </form>
+        
+        <script>
+            function onFileSelected(event) {
+              var selectedFile = event.target.files[0];
+              var reader = new FileReader();
+
+              var imgtag = document.getElementById("myimage");
+              imgtag.title = selectedFile.name;
+
+              reader.onload = function(event) {
+                imgtag.src = event.target.result;
+              };
+
+              reader.readAsDataURL(selectedFile);
+            }
+        </script>
+    </body>
+</html>
